@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NovelSpider", "NovelSpider\NovelSpider.pyproj", "{20BD3ED5-C4E4-4397-A1A6-D1A96D676030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BD3ED5-C4E4-4397-A1A6-D1A96D676030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BD3ED5-C4E4-4397-A1A6-D1A96D676030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D37CD884-611F-4D9C-8CA4-6B94F9F63E90}
+	EndGlobalSection
+EndGlobal
